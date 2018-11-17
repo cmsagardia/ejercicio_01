@@ -1,4 +1,4 @@
-# ejercio_01.java
+# ejercicio_01.java
 
 1.- Crear una Clase llamada Persona, con la siguiente estructura: 
 
